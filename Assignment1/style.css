@@ -1,0 +1,42 @@
+body{
+    background-color: #F9E4BC;
+    padding: 10px;
+}
+
+    header {
+    text-align: center;
+    margin-bottom: 20px;
+    }
+    p {
+        margin: 0;
+    }
+
+    .sections
+    {
+        
+        margin: 10px auto;
+        width: 600px;
+        height: 200px;
+        border: 5px solid black;
+        background-color: lightgrey;
+
+
+    }
+    
+    .sec6
+    {
+        height: 250px;
+    }
+    
+    footer {
+        text-align: center;
+        font-size: small;
+        margin-top: 30px;
+    }
+
+    img {
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 10px;
+    border: 3px solid #ddd;
+}
