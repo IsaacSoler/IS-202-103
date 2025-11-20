@@ -42,7 +42,7 @@ document.getElementById("tipButton").addEventListener("click", function()
     const tipPercentage = parseFloat(document.getElementById("tipPercentage").value) / 100;
     document.getElementById("tipOutput").textContent = totalCalculator(billAmount, tipPercentage);
 
-//Didnt use parseFloat becuase it created more clutter and had less functionality
+
 //Also used conventional java script function syntax for better readability(I learned this in my AP CS class in highschool, shoutout Mr.Cangelosi)
 
 });
